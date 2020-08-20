@@ -1,2 +1,2 @@
-# i_am_rich
+# I am Rich 
  I am Rich Flutter Application
